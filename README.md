@@ -1,4 +1,4 @@
-# MyDictionary
+# PyDictionary
 This is my first python project.
 Breifly this is a command line based Dictionary which will prompt the user to enter a word that they want to know the meaning of
 and it returns the meaning of the word you enterd in place.
